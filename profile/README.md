@@ -1,7 +1,6 @@
 <div align="center">
 
 <img src="../assets/header-profile.webp" alt="ITS Typst" width="100%">
-
 <br><br>
 
 [![Homepage](https://img.shields.io/badge/Homepage-its--typst.hilmisaad.com-blue?style=flat-square&logo=googlechrome)](https://its-typst.hilmisaad.com)
